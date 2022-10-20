@@ -11,4 +11,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NightMaker.ProjectQueen'sBox.Service\NightMaker.ProjectQueen'sBox.Service.csproj" />
+  </ItemGroup>
+
 </Project>
