@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.Core", "NightMaker.ProjectQueen'sBox.Core\NightMaker.ProjectQueen'sBox.Core.csproj", "{A9A395C1-4532-4F37-A3EB-CC4FB9B5EC8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueensBox.Core", "NightMaker.ProjectQueen'sBox.Core\NightMaker.ProjectQueensBox.Core.csproj", "{A9A395C1-4532-4F37-A3EB-CC4FB9B5EC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.WFormUI", "NightMaker.ProjectQueen'sBox.WFormUI\NightMaker.ProjectQueen'sBox.WFormUI.csproj", "{29049ACB-99D0-48A1-BCB7-8854B79891F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueen'sBox.WFormUI", "NightMaker.ProjectQueen'sBox.WFormUI\NightMaker.ProjectQueen'sBox.WFormUI.csproj", "{29049ACB-99D0-48A1-BCB7-8854B79891F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.WebAPI", "NightMaker.ProjectQueen'sBox.WebAPI\NightMaker.ProjectQueen'sBox.WebAPI.csproj", "{438ED8B1-9356-402F-ACD3-4934444B795E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueensBox.WebAPI", "NightMaker.ProjectQueen'sBox.WebAPI\NightMaker.ProjectQueensBox.WebAPI.csproj", "{438ED8B1-9356-402F-ACD3-4934444B795E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.Repository", "NightMaker.ProjectQueen'sBox.Repository\NightMaker.ProjectQueen'sBox.Repository.csproj", "{ADDBE9AC-32E0-4186-84D2-E3E7641E7CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueensBox.Repository", "NightMaker.ProjectQueen'sBox.Repository\NightMaker.ProjectQueensBox.Repository.csproj", "{ADDBE9AC-32E0-4186-84D2-E3E7641E7CE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.Service", "NightMaker.ProjectQueen'sBox.Service\NightMaker.ProjectQueen'sBox.Service.csproj", "{58013D2D-2BCD-4E9A-A55A-D86F18A35F1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueensBox.Service", "NightMaker.ProjectQueen'sBox.Service\NightMaker.ProjectQueensBox.Service.csproj", "{58013D2D-2BCD-4E9A-A55A-D86F18A35F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightMaker.ProjectQueen'sBox.Cache", "NightMaker.ProjectQueen'sBox.Cache\NightMaker.ProjectQueen'sBox.Cache.csproj", "{2E675CB5-DEF3-4600-97B9-BB8EFB235A57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NightMaker.ProjectQueen'sBox.Cache", "NightMaker.ProjectQueen'sBox.Cache\NightMaker.ProjectQueen'sBox.Cache.csproj", "{2E675CB5-DEF3-4600-97B9-BB8EFB235A57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

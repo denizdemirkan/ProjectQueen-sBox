@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj",
-      "projectName": "NightMaker.ProjectQueen'sBox.Core",
-      "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj",
+      "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj",
+      "projectName": "NightMaker.ProjectQueensBox.Core",
+      "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
       "outputPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\obj\\",
       "projectStyle": "PackageReference",

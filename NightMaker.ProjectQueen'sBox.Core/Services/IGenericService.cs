@@ -10,9 +10,9 @@ namespace NightMaker.ProjectQueen_sBox.Core.Services
     public interface IGenericService<TEntity> where TEntity : IEntity, new()
     {
         Task<TEntity> GetByIdAsync(int id);
-        IQueryable<TEntity> GetAll();
+        Task<IEnumerable<TEntity>> GetAllAsync();
         Task AddAsync(TEntity entity);
-        void Update(TEntity entity);
-        void Remove(TEntity entity);
+        Task UpdateAsync(TEntity entity);
+        Task RemoveAsync(TEntity entity);
     }
 }

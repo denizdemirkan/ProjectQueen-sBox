@@ -13,7 +13,6 @@ namespace NightMaker.ProjectQueen_sBox.Core.Entities
         public DateTime BirthDate { get; set; }
 
         // Navigation Properties
-        public int ColonyId { get; set; }
         public Colony Colony { get; set; }
     }
 }

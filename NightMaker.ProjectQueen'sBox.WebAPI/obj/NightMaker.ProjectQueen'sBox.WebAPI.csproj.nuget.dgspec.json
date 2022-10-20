@@ -4,12 +4,12 @@
     "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.WebAPI\\NightMaker.ProjectQueen'sBox.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj": {
+    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj",
-        "projectName": "NightMaker.ProjectQueen'sBox.Core",
-        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj",
+        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj",
+        "projectName": "NightMaker.ProjectQueensBox.Core",
+        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
         "outputPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -63,12 +63,12 @@
         }
       }
     },
-    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueen'sBox.Repository.csproj": {
+    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueen'sBox.Repository.csproj",
-        "projectName": "NightMaker.ProjectQueen'sBox.Repository",
-        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueen'sBox.Repository.csproj",
+        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj",
+        "projectName": "NightMaker.ProjectQueensBox.Repository",
+        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
         "outputPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\obj\\",
         "projectStyle": "PackageReference",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj": {
-                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueen'sBox.Core.csproj"
+              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj": {
+                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Core\\NightMaker.ProjectQueensBox.Core.csproj"
               }
             }
           }
@@ -110,31 +110,31 @@
           "dependencies": {
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[4.1.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[6.0.5, )"
             }
           },
           "imports": [
@@ -156,12 +156,12 @@
         }
       }
     },
-    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueen'sBox.Service.csproj": {
+    "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueensBox.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueen'sBox.Service.csproj",
-        "projectName": "NightMaker.ProjectQueen'sBox.Service",
-        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueen'sBox.Service.csproj",
+        "projectUniqueName": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueensBox.Service.csproj",
+        "projectName": "NightMaker.ProjectQueensBox.Service",
+        "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueensBox.Service.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
         "outputPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\obj\\",
         "projectStyle": "PackageReference",
@@ -185,8 +185,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueen'sBox.Repository.csproj": {
-                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueen'sBox.Repository.csproj"
+              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj": {
+                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj"
               }
             }
           }
@@ -248,8 +248,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueen'sBox.Service.csproj": {
-                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueen'sBox.Service.csproj"
+              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj": {
+                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Repository\\NightMaker.ProjectQueensBox.Repository.csproj"
+              },
+              "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueensBox.Service.csproj": {
+                "projectPath": "D:\\Repositories\\NightMaker.ProjectQueen'sBox\\NightMaker.ProjectQueen'sBox.Service\\NightMaker.ProjectQueensBox.Service.csproj"
               }
             }
           }
@@ -264,6 +267,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
